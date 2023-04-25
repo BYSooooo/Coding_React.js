@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Coding_React.js/static/css/main.a749d3de.css",
+    "main.js": "/Coding_React.js/static/js/main.fdf23b90.js",
+    "index.html": "/Coding_React.js/index.html",
+    "main.a749d3de.css.map": "/Coding_React.js/static/css/main.a749d3de.css.map",
+    "main.fdf23b90.js.map": "/Coding_React.js/static/js/main.fdf23b90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a749d3de.css",
+    "static/js/main.fdf23b90.js"
+  ]
+}
