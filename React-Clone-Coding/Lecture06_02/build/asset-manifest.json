@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Clone-Coding/Lecture06_02/static/css/main.a749d3de.css",
+    "main.js": "/React-Clone-Coding/Lecture06_02/static/js/main.c489ee74.js",
+    "index.html": "/React-Clone-Coding/Lecture06_02/index.html",
+    "main.a749d3de.css.map": "/React-Clone-Coding/Lecture06_02/static/css/main.a749d3de.css.map",
+    "main.c489ee74.js.map": "/React-Clone-Coding/Lecture06_02/static/js/main.c489ee74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a749d3de.css",
+    "static/js/main.c489ee74.js"
+  ]
+}
