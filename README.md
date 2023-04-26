@@ -22,4 +22,10 @@
 ## 3. Nomad Coders_React Clone Coding
 > Introduction : Clone Coding Twitter App <br>
 > URL : [React_Clone_Coding](https://nomadcoders.co/nwitter/) <br>
-> Stack : React.js, Firebase, Node.js, Javascript
+> Stack : React.js, Firebase, Node.js, Javascript <br>
+> Result : Create Web App and Deploy gitHub Pages  <br>
+> URL : [Link](https://bysooooo.github.io/Coding_React.js/)
+## 4. Nomad Corders_Redux for Beginners
+> Introduction : Practice VanillaJS-Redux & React-Redux <br>
+> URL : [Redux_for_Beginners](https://nomadcoders.co/redux-for-beginners) <br>
+> Stack : VanillaJS, React.js, Node.js <br>
