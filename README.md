@@ -30,6 +30,6 @@
 > URL : [Redux_for_Beginners](https://nomadcoders.co/redux-for-beginners) <br>
 > Stack : VanillaJS, React.js, Node.js <br>
 ## 5. Nomad Corders_NextJS Fundamentals
-> Introduction : Practice NextJS Framework
+> Introduction : Practice NextJS Framework <br>
 > URL : [NexsJS_Fundamentals](https://nomadcoders.co/nextjs-fundamentals) <br>
 > Stack : React.js, Node.js, NextJS 
