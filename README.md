@@ -31,9 +31,9 @@
 > Stack : VanillaJS, React.js, Node.js <br>
 ## 5. Nomad Corders_NextJS Fundamentals
 > Introduction : Practice Next.js Framework <br>
-> URL : [NexsJS_Fundamentals](https://nomadcoders.co/nextjs-fundamentals) <br>
+> URL : [NextJS_Fundamentals](https://nomadcoders.co/nextjs-fundamentals) <br>
 > Stack : React.js, Node.js, Next.js <br>
 ## 6. Nomad Corders_NextJS Fundamentals (v14)
 > Introduction : Practice Next.js Framwork Version 14 <br>
-> URL : [NexsJS_Fundamentals](https://nomadcoders.co/nextjs-fundamentals) <br>
+> URL : [NextJS_Fundamentals](https://nomadcoders.co/nextjs-fundamentals) <br>
 > Stack : React.js, Node.js, Next.js
